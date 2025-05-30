@@ -25,6 +25,7 @@ k8s-agent/
 ## Requirements
 
 - Python 3.7+
+- kubectl configured with access to your Kubernetes cluster
 - AWS credentials with access to Bedrock (Claude 3 Haiku model must be enabled in your AWS account and region)
 
 ## Installation
